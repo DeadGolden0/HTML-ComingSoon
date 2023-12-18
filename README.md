@@ -1,6 +1,6 @@
-## 🌐 Comming Soong Website Page
+## 🌐 Coming Soong Website Page
 
-Welcome to the **Comming Soong Website Page** repository! This is a simple ``Coming Soong`` page in HTML/CSS
+Welcome to the **Coming Soong Website Page** repository! This is a simple ``Coming Soong`` page in HTML/CSS
 
 ## 🚀 Showcase
 
